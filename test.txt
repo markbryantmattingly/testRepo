@@ -1,5 +1,3 @@
 just some texty-text file to test this stuff
-
 this line was added by markAlaskaMattingly
-
 ...blah blah 
