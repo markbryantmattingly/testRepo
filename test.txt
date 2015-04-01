@@ -1,4 +1,5 @@
 just some texty-text file to test this stuff
+
 this line was added by markAlaskaMattingly
-...and THIS line was added using tortoise svn to do a commmit
+
 ...blah blah 
